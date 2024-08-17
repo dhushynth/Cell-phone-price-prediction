@@ -7,6 +7,9 @@ Task 2:-On the basis of the mobile Specification like Battery power, 3G enabled 
 Task 3:- Prepare the analysis report stating how model will help expanding the business by stating several factors including feature importance.
 399694-smartphones-apple-iphone-11-10008711
 
+
+![S24](https://github.com/user-attachments/assets/ac1d15ff-28c7-400d-b32b-20873902d6cf)
+
 # Context:
 An entrepreneur has started his own mobile company. He wants to give tough fight to big companies like Apple, Samsung etc. He does not know how to estimate price of mobiles his company creates. In this competitive mobile phone market, one cannot simply assume things. To solve this problem, he collects sales data of mobile phones of various companies. He wants to find out some relation between features of a mobile phone (e.g., RAM, Internal Memory etc) and its selling price. But he is not so good at Machine Learning. So, he needs your help to solve this problem. In this problem you do not have to predict actual price but a price range indicating how high the price is
 
